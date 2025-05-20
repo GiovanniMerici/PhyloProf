@@ -7,7 +7,7 @@ This Colab-based tool automates the process of identifying the phylogenetic dist
 - 🧬 Accepts a set of protein sequences
 - 🌍 Accepts a list of target organisms (or a short default list is available) 
 - ⬇️ Automatically downloads reference genomes from NCBI
-- 🧪 Runs `BLASTP` searches to detect gene presence
+- 🧪 Runs BLASTP searches to detect gene presence
 - 📊 Builds a presence/absence matrix
 - 🌳 Constructs a taxonomic tree from NCBI
 - 🎨 Plots a heatmap aligned to the tree
